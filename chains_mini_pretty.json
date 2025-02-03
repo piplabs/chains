@@ -8,7 +8,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://mainnet.infura.io/v3/${INFURA_API_KEY}", "wss://mainnet.infura.io/ws/v3/${INFURA_API_KEY}", "https://api.mycryptoapi.com/eth", "https://cloudflare-eth.com", "https://ethereum-rpc.publicnode.com", "wss://ethereum-rpc.publicnode.com", "https://mainnet.gateway.tenderly.co", "wss://mainnet.gateway.tenderly.co", "https://rpc.blocknative.com/boost", "https://rpc.flashbots.net", "https://rpc.flashbots.net/fast", "https://rpc.mevblocker.io", "https://rpc.mevblocker.io/fast", "https://rpc.mevblocker.io/noreverts", "https://rpc.mevblocker.io/fullprivacy", "https://eth.drpc.org", "wss://eth.drpc.org"],
+  "rpc": ["https://mainnet.infura.io/v3/${INFURA_API_KEY}", "wss://mainnet.infura.io/ws/v3/${INFURA_API_KEY}", "https://api.mycryptoapi.com/eth", "https://cloudflare-eth.com", "https://ethereum-rpc.publicnode.com", "wss://ethereum-rpc.publicnode.com", "https://mainnet.gateway.tenderly.co", "wss://mainnet.gateway.tenderly.co", "https://rpc.blocknative.com/boost", "https://rpc.flashbots.net", "https://rpc.flashbots.net/fast", "https://rpc.mevblocker.io", "https://rpc.mevblocker.io/fast", "https://rpc.mevblocker.io/noreverts", "https://rpc.mevblocker.io/fullprivacy", "https://eth.drpc.org", "wss://eth.drpc.org", "https://api.securerpc.com/v1"],
   "faucets": [],
   "infoURL": "https://ethereum.org"
 }, {
@@ -3535,7 +3535,7 @@
   "faucets": [],
   "infoURL": "https://filecoin.io"
 }, {
-  "name": "WEMblockchain MainNet",
+  "name": "WorldEcoMoney",
   "chainId": 315,
   "shortName": "wem",
   "networkId": 315,
@@ -3544,7 +3544,7 @@
     "symbol": "WEM",
     "decimals": 18
   },
-  "rpc": ["http://rpc.wemblockchain.com"],
+  "rpc": ["https://rpc.wemblockchain.com"],
   "faucets": [],
   "infoURL": "https://worldecomoney.com"
 }, {
@@ -7409,6 +7409,19 @@
   "faucets": [],
   "infoURL": "https://www.alyxchain.com"
 }, {
+  "name": "Story Homer Testnet",
+  "chainId": 1315,
+  "shortName": "styhmt",
+  "networkId": 1315,
+  "nativeCurrency": {
+    "name": "IP Token",
+    "symbol": "IP",
+    "decimals": 18
+  },
+  "rpc": ["https://devnet.storyrpc.io."],
+  "faucets": [],
+  "infoURL": "https://story.foundation/"
+}, {
   "name": "AIA Mainnet",
   "chainId": 1319,
   "shortName": "aia",
@@ -9060,18 +9073,18 @@
   "faucets": [],
   "infoURL": "https://publicmint.com"
 }, {
-  "name": "PublicMint Mainnet",
+  "name": "Ronin Mainnet",
   "chainId": 2020,
-  "shortName": "pmint",
+  "shortName": "ron",
   "networkId": 2020,
   "nativeCurrency": {
-    "name": "USD",
-    "symbol": "USD",
+    "name": "RON",
+    "symbol": "RON",
     "decimals": 18
   },
-  "rpc": ["https://rpc.publicmint.io:8545"],
+  "rpc": ["https://api.roninchain.com/rpc"],
   "faucets": [],
-  "infoURL": "https://publicmint.com"
+  "infoURL": "https://roninchain.com"
 }, {
   "name": "Edgeware EdgeEVM Mainnet",
   "chainId": 2021,
@@ -14949,6 +14962,19 @@
   "faucets": [],
   "infoURL": "https://evmos.org"
 }, {
+  "name": "Qubetics Testnet",
+  "chainId": 9003,
+  "shortName": "Qubetics",
+  "networkId": 9003,
+  "nativeCurrency": {
+    "name": "Qubetics Testnet Token",
+    "symbol": "TICS",
+    "decimals": 18
+  },
+  "rpc": ["https://alphatestnet-evm-rpc.qubetics.work/", "wss://wss-testnet-nodes.shidoscan.com"],
+  "faucets": ["https://alphatestnet-explorer.qubetics.work/faucet"],
+  "infoURL": "https://www.qubetics.com/"
+}, {
   "name": "Shido Testnet Block",
   "chainId": 9007,
   "shortName": "ShidoTestnet",
@@ -15712,7 +15738,7 @@
     "symbol": "MON",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://testnet-rpc.monad.xyz"],
   "faucets": [],
   "infoURL": "https://monad.xyz"
 }, {
@@ -19382,6 +19408,19 @@
   "faucets": [],
   "infoURL": "https://www.energi.world/"
 }, {
+  "name": "Citronus",
+  "chainId": 50000,
+  "shortName": "citro",
+  "networkId": 50000,
+  "nativeCurrency": {
+    "name": "CITRO",
+    "symbol": "CITRO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.citronus.com"],
+  "faucets": [],
+  "infoURL": "https://citronus.com"
+}, {
   "name": "Liveplex OracleEVM",
   "chainId": 50001,
   "shortName": "LOE",
@@ -22372,6 +22411,19 @@
   "faucets": [],
   "infoURL": "https://metadap.io/"
 }, {
+  "name": "Fushuma",
+  "chainId": 121224,
+  "shortName": "fushuma",
+  "networkId": 121224,
+  "nativeCurrency": {
+    "name": "FUSHUMA",
+    "symbol": "FUMA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.fushuma.com"],
+  "faucets": [],
+  "infoURL": ""
+}, {
   "name": "Gemchain",
   "chainId": 123321,
   "shortName": "gemchain",
@@ -23216,6 +23268,19 @@
   "rpc": ["https://mainnet.tafchain.com/v1"],
   "faucets": [],
   "infoURL": "https://www.tafchain.com"
+}, {
+  "name": "CONET Mainnet",
+  "chainId": 224400,
+  "shortName": "conet-mainnet",
+  "networkId": 224400,
+  "nativeCurrency": {
+    "name": "CONET ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.conet.network"],
+  "faucets": [],
+  "infoURL": "https://conet.network"
 }, {
   "name": "CONET Sebolia Testnet",
   "chainId": 224422,
@@ -27273,7 +27338,7 @@
   "faucets": ["https://sfuel.dirtroad.dev/staging"],
   "infoURL": "https://europahub.network/"
 }, {
-  "name": "Skopje Testnet",
+  "name": "GPT Testnet",
   "chainId": 476462898,
   "shortName": "Skopje",
   "networkId": 476462898,
@@ -27282,8 +27347,8 @@
     "symbol": "SkpGPT",
     "decimals": 18
   },
-  "rpc": ["https://skopje-rpc.gptprotocol.io"],
-  "faucets": ["https://skopje-faucet.gptprotocol.io"],
+  "rpc": ["https://testnet-rpc.gptprotocol.io"],
+  "faucets": ["https://testnet-faucet.gptprotocol.io"],
   "infoURL": "https://gptprotocol.com"
 }, {
   "name": "Gather Devnet Network",
@@ -27480,6 +27545,19 @@
   "rpc": ["https://mainnet.skalenodes.com/v1/wan-red-ain"],
   "faucets": ["https://dashboard.humanprotocol.org/faucet"],
   "infoURL": "https://www.humanprotocol.org"
+}, {
+  "name": "OFFICIAL VASYL",
+  "chainId": 1278060416,
+  "shortName": "Vasyl",
+  "networkId": 1278060416,
+  "nativeCurrency": {
+    "name": "OFFICIAL VASYL",
+    "symbol": "VASYL",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.official-vasyl.network"],
+  "faucets": ["https://faucet.official-vasyl.network"],
+  "infoURL": "official-vasyl.network"
 }, {
   "name": "Aurora Mainnet",
   "chainId": 1313161554,

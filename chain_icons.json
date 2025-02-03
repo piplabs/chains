@@ -119,6 +119,14 @@
     "format": "png"
   }]
 }, {
+  "name": "citro",
+  "icons": [{
+    "url": "ipfs://QmdwQDr6vmBtXmK2TmknkEuZNoaDqTasFdZdu3DRw8b2ws",
+    "width": 24,
+    "height": 24,
+    "format": "svg"
+  }]
+}, {
   "name": "taf",
   "icons": [{
     "url": "ipfs://bafkreigpxhu7glccsislhjqpl5fnsfmj2io4cy33blhky642uiuyojossy",
@@ -4719,6 +4727,12 @@
     "format": "png"
   }]
 }, {
+  "name": "wemscan",
+  "icons": [{
+    "url": "ipfs://QmSuVbbBRAnquu3EsbsFgEMNgM8bTpiVKns2CCBVM6c2aJ",
+    "format": "svg"
+  }]
+}, {
   "name": "move",
   "icons": [{
     "url": "ipfs://QmWRAor77N6VyjJiQgtsEE7h9Bd1Q7vtRveTYv2A6wZyAT",
@@ -4780,6 +4794,14 @@
     "url": "ipfs://QmRkaZbopr8JTgypSQ3N3VfQumnZEN9bA5Uh3u3mL26dwT",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "qubetics",
+  "icons": [{
+    "url": "ipfs://bafkreigsioq2bd4c6slficwtzjq6gbti2c4vhzjlsjtihz2b762j4zjqhy",
+    "width": 235,
+    "height": 234,
     "format": "png"
   }]
 }, {
@@ -5527,6 +5549,12 @@
     "format": "png"
   }]
 }, {
+  "name": "wem",
+  "icons": [{
+    "url": "ipfs://QmSuVbbBRAnquu3EsbsFgEMNgM8bTpiVKns2CCBVM6c2aJ",
+    "format": "svg"
+  }]
+}, {
   "name": "forma",
   "icons": [{
     "url": "ipfs://QmQkjcadjAEefa4HLG26pKFvCaNZeZ7wWNxMkCVarW9tiU",
@@ -5876,6 +5904,14 @@
     "url": "ipfs://Qma8dDhxSSVUyzV8Pu5bo252WaZEEikYFndRh7LVktvQEy",
     "width": 512,
     "height": 330,
+    "format": "png"
+  }]
+}, {
+  "name": "vasyl",
+  "icons": [{
+    "url": "ipfs://bafkreib454hflqzfcvpsmk43mkgwsj3ds36olbf2nidtr4kppfk2ghpu2q",
+    "width": 200,
+    "height": 200,
     "format": "png"
   }]
 }, {
@@ -7263,6 +7299,14 @@
     "format": "png"
   }]
 }, {
+  "name": "edollar",
+  "icons": [{
+    "url": "ipfs://bafkreic4aq265oaf6yze7ba5okefqh6vnqudyrz6ovukvbnrlhet36itle",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "bnbchain",
   "icons": [{
     "url": "ipfs://bafybeib75gwytvblyvjpfminitr3i6mpat3a624udfsqsl5nysf5vuuvie",
@@ -7500,6 +7544,14 @@
     "url": "ipfs://QmYFYwyquipwc9gURQGcEd4iAq7pq15chQrJ3zJJe9HuFT",
     "width": 1000,
     "height": 1000,
+    "format": "png"
+  }]
+}, {
+  "name": "BTCChain",
+  "icons": [{
+    "url": "ipfs://bafkreib6is2nmoadrbvigzrd54z53eya5whfmyeukrl5mfxmskvbw5juxa",
+    "width": 1200,
+    "height": 1200,
     "format": "png"
   }]
 }, {
